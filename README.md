@@ -71,4 +71,4 @@ print(beecolony.best_solution())
 
 Copyright (c) 2020 juadolfob
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[MIT license](https://github.com/juadolfob/Artificial_Bee_Colony_Algorithm/blob/master/LICENSE)**
