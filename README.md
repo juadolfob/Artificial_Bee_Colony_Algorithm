@@ -23,6 +23,7 @@ Ackley function:
 <img src="https://static.packt-cdn.com/products/9781789612011/graphics/5f433384-3526-40ee-a25b-a1746b0ad84b.png" title="Ackley_function">
 
 Search domain: -5 > x, y < 5
+
 Global minimun: 0
 
 ```python
