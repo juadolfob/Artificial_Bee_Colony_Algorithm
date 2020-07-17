@@ -44,10 +44,10 @@ beecolony = ABC(ackley_function, sn, bound, limit, mcn)
 print(beecolony.best_solution())
 
 >>> {
-    'solution': [3.7329822787012874e-10, 8.777613943111147e-10, 9.50420947639729e-10, -7.802346958025154e-09],
-    'function': 9.910615005712959e-17,
+    'solution': [1.614501477111784e-15, -2.671407694102143e-15],
+    'function': 0.0,
     'fitness': 1.0,
-    'trial': 17
+    'trial': 19
     }
     
 ```
