@@ -2,7 +2,7 @@
 
 # Artificial Bee Colony Algorithm
 
-> Artificial Bee Colony (ABC) Optimization Algorithm for Solving Constrained Optimization Problems
+> 
 
 
 
@@ -10,7 +10,11 @@
 
 ---
 
-## Example (Optional)
+Based on article:
+
+<a href=
+https://www.researchgate.net/publication/221498082_Artificial_Bee_Colony_ABC_Optimization_Algorithm_for_Solving_Constrained_Optimization_Problems>Artificial Bee Colony (ABC) Optimization Algorithm for Solving Constrained Optimization Problems</a>
+## Example
 
 Class is designed to accept lambda functions but it will work with any method, and any number of parameters.
 
