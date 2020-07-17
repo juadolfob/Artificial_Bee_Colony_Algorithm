@@ -1,10 +1,10 @@
-<img src="https://pluspng.com/img-png/bee-free-png-cartoon-bee-png-800.png" width="100" height="100" title="bee">
+<img src="https://pluspng.com/img-png/bee-free-png-cartoon-bee-png-800.png" width="190" height="190" title="bee">
 
 # Artificial Bee Colony Algorithm
 
 > Artificial Bee Colony (ABC) Optimization Algorithm for Solving Constrained Optimization Problems
 
-> ideally one sentence
+
 
 > ABC, Artificial Bee Colony, Optimization Algorithm
 
