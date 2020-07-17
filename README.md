@@ -1,19 +1,14 @@
-# Artificial Bee Colony Algorithm
-Artificial Bee Colony (ABC) Optimization Algorithm for Solving Constrained Optimization Problems
-
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Repository Title Goes Here
+# Artificial Bee Colony Algorithm
 
-> Subtitle or Short Description Goes Here
+> Artificial Bee Colony (ABC) Optimization Algorithm for Solving Constrained Optimization Problems
 
 > ideally one sentence
 
-> include terms/tags that can be searched
+> ABC, Artificial Bee Colony, Optimization Algorithm
 
 **Badges will go here**
 
