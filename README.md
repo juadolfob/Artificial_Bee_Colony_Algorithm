@@ -1,4 +1,4 @@
-<img src="https://pluspng.com/img-png/bee-free-png-cartoon-bee-png-800.png" title="bee">
+<img src="https://pluspng.com/img-png/bee-free-png-cartoon-bee-png-800.png" width="100" height="100" title="bee">
 
 # Artificial Bee Colony Algorithm
 
