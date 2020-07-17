@@ -19,7 +19,11 @@ https://www.researchgate.net/publication/221498082_Artificial_Bee_Colony_ABC_Opt
 Class is designed to accept lambda functions but it will work with any method, and any number of parameters.
 
 Ackley function:
+
 <img src="https://static.packt-cdn.com/products/9781789612011/graphics/5f433384-3526-40ee-a25b-a1746b0ad84b.png" title="Ackley_function">
+
+Search domain: -5 > x, y < 5
+Global minimun: 0
 
 ```python
 
@@ -30,10 +34,12 @@ Ackley_function = lambda x, y: -20 * math.exp(-.02 * math.sqrt(0.5 * (x ** 2 + y
 sn = 15
 limit = 50
 mcn = 1000
-bound = 100
+bound = 5
 beecolony = ABC(Ackley_function, sn, bound, limit, mcn)
 
 print(beecolony.best_solution())
+
+>>> {'solution': [3.7329822787012874e-10, 8.777613943111147e-10, 9.50420947639729e-10, -7.802346958025154e-09, -5.324231131089286e-09, 2.8405947011987736e-09], 'function': 9.910615005712959e-17, 'fitness': 1.0, 'trial': 17}
 
 ```
 
