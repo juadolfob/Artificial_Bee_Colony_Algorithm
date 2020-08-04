@@ -22,7 +22,7 @@ Ackley function:
 
 <img src="https://static.packt-cdn.com/products/9781789612011/graphics/5f433384-3526-40ee-a25b-a1746b0ad84b.png" title="Ackley_function">
 
-Search domain: -5 > x, y < 5
+Search domain: -40 > x, y < 40
 
 Global minimun: 0
 
@@ -35,19 +35,19 @@ ackley_function = lambda x, y: -20 * math.exp(-.02 * math.sqrt(0.5 * (x ** 2 + y
     0.5 * (math.cos(2 * math.pi * x) + math.cos(2 * math.pi * y))) + math.e + 20
 
 
-sn = 4
+sn = 10
 limit = 50
 mcn = 1000
-bound = 5
+bound = 40
 beecolony = ABC(ackley_function, sn, bound, limit, mcn)
 
 print(beecolony.best_solution())
 
 >>> {
-    'solution': [3.7329822787012874e-10, 8.777613943111147e-10, 9.50420947639729e-10, -7.802346958025154e-09],
-    'function': 9.910615005712959e-17,
+    'solution': [2.7091476396022223e-15, -1.998092029953233e-15],
+    'function': 0.0,
     'fitness': 1.0,
-    'trial': 17
+    'trial': 39
     }
     
 ```
