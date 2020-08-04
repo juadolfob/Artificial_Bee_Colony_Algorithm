@@ -11,10 +11,10 @@ Ackley_function = lambda x, y: -20 * math.exp(-.02 * math.sqrt(0.5 * (x ** 2 + y
 # Global minimum = ( 0, 0, 0, ..., 0 )
 sphere_funtion = lambda x1, x2, x3, x4, x5, x6: x1 ** 2 + x2 ** 2 + x3 ** 2 + x4 ** 2 + x5 ** 2 + x6 ** 2
 
-SN = 15
-limit = 20
+SN = 10
+limit = 50
 MCN = 1000
-bound = 100
-result = ABC(sphere_funtion, SN, bound, limit, MCN)
+bound = 40
+result = ABC(Ackley_function, SN, bound, limit, MCN)
 
 print(result.best_solution())
