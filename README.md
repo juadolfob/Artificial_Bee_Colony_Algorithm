@@ -5,7 +5,6 @@
 > 
 
 
-
 > ABC, Artificial Bee Colony, Optimization Algorithm
 
 ---
@@ -64,6 +63,8 @@ print(beecolony.best_solution())
 ## Documentation (Optional)
 ## Tests (Optional)
 -->
+todo:
+gradient optimization
 
 ## License
 
