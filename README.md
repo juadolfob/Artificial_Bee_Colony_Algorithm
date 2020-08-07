@@ -65,6 +65,8 @@ print(beecolony.best_solution())
 -->
 todo:
 gradient optimization
+bfgs
+ACO
 
 ## License
 
